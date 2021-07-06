@@ -1,0 +1,9 @@
+.allergy_back {
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: lightgreen;
+  border-radius: 2px;
+}
